@@ -1,16 +1,5 @@
 <h1 align="left"><span class="wave">👋 Hello, I'm Muthu Kesavan !</span> 
 
-.wave {
-  animation-name: wave-animation; 
-  animation-duration: 2.5s;        
-  animation-iteration-count: infinite; 
-  transform-origin: 70% 70%;       
-  display: inline-block;
-}
-@keyframes wave-animation {
-    0% { transform: rotate( 0.0deg) }
-   10% { transform: rotate(14.0deg) }
-
 ###
 
 <p align="left">🎓 Final Year Computer Science Student<br>🌐 Aspiring Web Developer | 🔐 Cybersecurity Enthusiast<br><br>👨‍💻 About Me:<br>I'm a passionate computer science student in my final year, with a deep interest in both web development and cybersecurity. My journey in the world of technology has been an exciting one, filled with opportunities to learn and grow.<br><br>🌐 Web Development:<br>I'm enthusiastic about creating responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and front-end libraries and frameworks like React, I enjoy turning creative ideas into functional websites. <br><br>🔐 Cybersecurity:<br>Security in the digital realm has always fascinated me. I'm actively expanding my knowledge and skills in the field of cybersecurity, with a focus on Computer Networks, Network security and best security practices.<br><br>🛠️ Tools & Technologies:<br>- Languages: HTML, CSS, JavaScript, Python<br>- Frameworks: React.<br>- Cybersecurity: Metasploit, Wireshark, Kali Linux<br>- Version Control: Git/GitHub<br><br>🚀 What's Next:<br>I'm eager to collaborate on open-source projects, continue my learning journey, and apply my skills to real-world challenges. If you share a passion for web development or cybersecurity, let's connect and explore opportunities together!<br><br>Happy coding! 🚀</p>
