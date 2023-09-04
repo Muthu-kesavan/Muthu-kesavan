@@ -32,11 +32,11 @@
 
 <div align="left">
   <a href="mailto:muthukesavan6044@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="40" alt="gmail logo"  />
     <img width="20" />
   </a>
   <a href="https://www.linkedin.com/in/muthu-kesavan-s-95425821b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="40" alt="linkedin logo"  />
     <img width="20" />
   </a>
 </div>
