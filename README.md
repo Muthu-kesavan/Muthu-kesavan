@@ -1,4 +1,12 @@
-<h1 align="left">👋 Hello, I'm Muthu Kesavan !</h1>
+<h1 align="left"><span class="wave">👋 Hello, I'm Muthu Kesavan !</span> 
+
+.wave {
+  animation-name: wave-animation; 
+  animation-duration: 2.5s;        
+  animation-iteration-count: infinite; 
+  transform-origin: 70% 70%;       
+  display: inline-block;
+}
 
 ###
 
