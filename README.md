@@ -7,6 +7,9 @@
   transform-origin: 70% 70%;       
   display: inline-block;
 }
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }
 
 ###
 
