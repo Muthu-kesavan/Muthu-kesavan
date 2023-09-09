@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">What I Know </h4>
+<h4 align="left">What I Code🧑‍💻 </h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">Feel Free to Contact</h4>
+<h4 align="left">Feel Free to Connect 🔗</h4>
 
 ###
 
